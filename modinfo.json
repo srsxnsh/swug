@@ -3,10 +3,10 @@
     "name": "Swug",
     "version": "0.0.1",
     "hide_version": false,
-    "authors": "Occulii (msc), INSERT MORE", //add when needed
-    "description": "x", // this is placeholder
+    "authors": "Occulii (msc), INSERT MORE", 
+    "description": "x",
     "requirements": ["regionkit"],
     "requirements_names": ["RegionKit"],
     "checksum_override_version": false,
-    "tags": [] //add some
+    "tags": ["cool"]
 }
