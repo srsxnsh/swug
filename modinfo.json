@@ -3,10 +3,10 @@
     "name": "Swug",
     "version": "0.0.1",
     "hide_version": false,
-    "authors": "Occulii (msc), INSERT MORE", 
-    "description": "x",
+    "authors": "Occulii 'msc', Miketsi", 
+    "description": "A mod adding a new campaign and regions.",
     "requirements": ["regionkit"],
     "requirements_names": ["RegionKit"],
     "checksum_override_version": false,
-    "tags": ["cool"]
+    "tags": ["Region", "Slugcat", "Campaign"]
 }
