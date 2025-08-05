@@ -1,2 +1,2 @@
-[ADD]swsc
-[ADD]swlr
+[ADD]SWSC
+[ADD]SWLR
