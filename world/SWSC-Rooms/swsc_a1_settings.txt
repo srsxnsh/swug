@@ -1,14 +1,13 @@
 Template: NONE
-CeilingDrips: 0.6521739
-WaveSpeed: 0.5326087
-WaveLength: 0.8695652
-WaveAmplitude: 0.08695652
-SecondWaveLength: 0.4384056
-SecondWaveAmplitude: 0
+DangerType: Flood
+CeilingDrips: 0.5978261
+WaveSpeed: 0.5652174
 Clouds: 0
-Grime: 0.4456522
-RandomItemDensity: 0.5760869
-Palette: 5
-EffectColorA: 0
+Grime: 0.3913043
+RandomItemDensity: 0.7282609
+Palette: 4
+EffectColorA: 2
 EffectColorB: 10
-Effects: SunBlock-1-20-20, LightRain-0-25-69, PinkSky-0-31-46, VoidMelt-0-17-41, 
+Effects: SunBlock-0.3369565-20-20, MurkyWater-0.3478261-30-30, 
+PlacedObjects: JellyFish><189.6544><75.32435><-123~99~0~3, 
+FadePalette: 8, 0.3043478
