@@ -1,0 +1,14 @@
+Template: NONE
+CeilingDrips: 0.6521739
+WaveSpeed: 0.5326087
+WaveLength: 0.8695652
+WaveAmplitude: 0.08695652
+SecondWaveLength: 0.4384056
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.4456522
+RandomItemDensity: 0.5760869
+Palette: 5
+EffectColorA: 0
+EffectColorB: 10
+Effects: SunBlock-1-20-20, LightRain-0-25-69, PinkSky-0-31-46, VoidMelt-0-17-41, 
