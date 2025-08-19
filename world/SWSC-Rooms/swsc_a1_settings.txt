@@ -2,10 +2,11 @@ DangerType: Flood
 CeilingDrips: 0.6413044
 WaveSpeed: 0.5978261
 Grime: 0.7065217
+BkgDroneVolume: 0.2565218
 RandomItemDensity: 0.4565217
 Palette: 5
 EffectColorB: 10
 Effects: SunBlock-1-20-20, MurkyWater-0.4565217-21-84, 
 PlacedObjects: DeadHazer><708.3009><233.9809><124~-130~0~2, JellyFish><215.6818><88.6666><-56~91.00003~0~3, JellyFish><429.587><91.86588><0~0~0~3, WaterNut><173.153><280.8712><-15~63~2~3, WaterNut><160.8707><283.6526><-37~92~0~3, WaterNut><677.9091><232.0718><-19~119~2~3, 
-AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><767.9471><446.5336><0.1521739><1, OMNI><AM_ENV-WallHum.ogg><669.3778><328.0962><0.3043478><1, OMNI><AM_IND-DeepHum.ogg><528.0516><414.7756><0.5217391><0.4717391, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><767.9471><446.5336><0.09782609><1, OMNI><AM_ENV-WallHum.ogg><669.3778><328.0962><0><1, OMNI><AM_IND-DeepHum.ogg><528.0516><414.7756><0.3043478><0.4717391, 
 FadePalette: 10, 0.5
