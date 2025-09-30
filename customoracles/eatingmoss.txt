@@ -1,0 +1,13 @@
+color:0,100,0
+id:EM
+room:A02
+region:SU
+name:Eating Moss
+ruined:true
+thirdEyeColor:0,200,0
+thirdEyeSprite:mouseEyeA5
+thirdEyeScale: 0.8
+metalColor: 100,100,100
+hasHalo: false
+ruinedGown: true
+initialSwarmers:-1

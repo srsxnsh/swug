@@ -1,0 +1,1 @@
+PlacedObjects: LightBeam><247.7942><355.0549><125~396~217~399~419~-14~60~36~0.3891303~0~0~1~None~0~0, CentipedeAttractor><95.15235><299.8796><-4~4, CentipedeAttractor><93.69461><299.0461><-4~-1, 
