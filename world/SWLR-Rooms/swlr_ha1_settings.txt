@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: FloodAndRain
+RandomItemDensity: 0.5
+Palette: 3
+EffectColorB: 21
+FadePalette: 0, 0
