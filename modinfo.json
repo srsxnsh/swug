@@ -1,9 +1,9 @@
 {
     "id": "swugmod",
-    "name": "Swug",
+    "name": "Swug (Alpha build)",
     "version": "0.0.1",
     "hide_version": false,
-    "authors": "Occulii 'msc', Miketsi", 
+    "authors": "Occulii 'srsxnsh'", 
     "description": "A mod adding a new campaign and regions.",
     "requirements": ["regionkit"],
     "requirements_names": ["RegionKit"],
