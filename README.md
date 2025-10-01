@@ -1,5 +1,10 @@
 # ALPHA PATCHNOTES
 
+~Up Next~
+- All creature spawns
+- Adjustments to more rooms in devtools
+- More rooms
+
 !CURRENT! v0.0.1
 - Added creature spawns to a few levels in shaded coast.
 - Added some custom decals.
