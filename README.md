@@ -1,6 +1,6 @@
 # ALPHA PATCHNOTES
 
->>Up Next<<
+$Up Next$
 - All creature spawns
 - Adjustments to more rooms in devtools
 - More rooms
