@@ -1,8 +1,10 @@
 # ALPHA PATCHNOTES
 
 [UP NEXT] 
-- Adjustments to more rooms in devtools
 - More rooms
+
+!CURRENT! v0.0.4
+- All rooms devtooled.
 
 v0.0.3
 - All creature spawns.
