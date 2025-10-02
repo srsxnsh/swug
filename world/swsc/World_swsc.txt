@@ -18,6 +18,9 @@ END ROOMS
 CREATURES
 SWSC_A4 : 3-Blue, 2-SmallCentipede-2
 SWSC_C1 : 3-Salamander-2, 4-Salamander
+SWSC_B2 : 4-White, 5-SmallCentipede-3
+SWSC_A3 : 4-PoleMimic, 3-White
+SWSC_A6 : 2-Spider
 OFFSCREEN : 0-Vulture, 0-KingVulture
 END CREATURES
 
