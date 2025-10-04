@@ -3,8 +3,9 @@
 [UP NEXT] 
 - More rooms
 
-!CURRENT! v0.0.4
+!CURRENT! v0.0.4.5
 - All rooms devtooled.
+- [Minor Update] Added more decals.
 
 v0.0.3
 - All creature spawns.

@@ -1,7 +1,7 @@
 {
     "id": "swugmod",
     "name": "Swug (Alpha build)",
-    "version": "0.0.4",
+    "version": "0.0.4.5",
     "hide_version": false,
     "authors": "Occulii 'srsxnsh'", 
     "description": "A mod adding a new campaign and regions.",
