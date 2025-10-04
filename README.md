@@ -3,7 +3,11 @@
 [UP NEXT] 
 - More rooms
 
-!CURRENT! v0.0.4.5
+!CURRENT! v0.0.5 [TEST RELEASE 1]
+- Added more rooms.
+- Adjusted creature spawns.
+
+v0.0.4-4.5
 - All rooms devtooled.
 - [Minor Update] Added more decals.
 
