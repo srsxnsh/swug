@@ -9,7 +9,7 @@
 
 v0.0.4-4.5
 - All rooms devtooled.
-- [Minor Update] Added more decals.
+- [Minor Update] Added more decals (by siserene usermann and medicmist)
 
 v0.0.3
 - All creature spawns.
