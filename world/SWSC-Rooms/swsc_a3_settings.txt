@@ -1,10 +1,2 @@
-DangerType: FloodAndRain
-WaveSpeed: 0.4326788
-WaveLength: 0.9663394
-WaveAmplitude: 0.000841154
-SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
-Clouds: 0.4347826
-Grime: 0.4673913
 Effects: BkgOnlyLightning-0.5326087-30-30, 
 PlacedObjects: LightSource><480.8255><408.1523><0.5108696~Environment~0~100~50~86.60254~1~0~None~0~0, CustomDecal><27.94458><251.0463><1~95~95~96~91~-2~202~-90~0.173913~0.423913~0~cal eatmoss~1~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739, 

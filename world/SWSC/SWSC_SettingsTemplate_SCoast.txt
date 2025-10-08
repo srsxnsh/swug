@@ -1,22 +1,22 @@
-DangerType: FloodAndRain
+DangerType: Rain
 CeilingDrips: 0.6413044
 RainIntensity: 1
 RumbleIntensity: 1
-WaveSpeed: 0.4326788
-WaveLength: 0.9663394
-WaveAmplitude: 0.000841154
+WaveSpeed: 0.4937438
+WaveLength: 0.9968719
+WaveAmplitude: 0.03909148
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Clouds: 0.4347826
-Grime: 0.4673913
+Clouds: 0.5760869
+Grime: 0.2934783
 BkgDroneVolume: 0.2565218
 BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.4565217
-RandomItemSpearChance: 0.2
+RandomItemSpearChance: 0.3304347
 WaterReflectionAlpha: 1
 Palette: 5
 EffectColorA: 0
 EffectColorB: 10
 Effects: SunBlock-1-20-20, MurkyWater-0.4565217-21-84, 
-AmbientSounds: OMNI><AM_IND-ElectricHum01.ogg><768.3026><292.0319><0><0.1, OMNI><AM_ENV-SubTerr.ogg><759.4351><446.6892><0.1630435><0.7065217, OMNI><AM_ENV-WallHum.ogg><669.3778><328.0962><0.3043478><1, OMNI><AM_IND-DeepHum.ogg><528.0516><414.7756><0.5217391><0.4717391, 
-FadePalette: 10, 0.3043478
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><767.9471><446.5336><0.09782609><1, OMNI><AM_ENV-WallHum.ogg><669.3778><328.0962><0><1, OMNI><AM_IND-DeepHum.ogg><528.0516><414.7756><0.3043478><0.4717391, OMNI><AM_IND-ElectricHum01.ogg><768.3026><292.0319><0><0.1, 
+FadePalette: 10, 0.4021739
