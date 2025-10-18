@@ -2,3 +2,4 @@ Room Setting Templates: SCoast
 Subregion: Shaded Coast
 Subregion: Fractionating Chambers
 Subregion: Forgotten Port
+Subregion: Abandoned Tramways
