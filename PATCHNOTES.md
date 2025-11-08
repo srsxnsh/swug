@@ -1,14 +1,5 @@
-# Requirements:
-- POM
-- Regionkit
-- CRS
-- msc
 
-## FULL DECAL CREDITS:
-- [Six Skulls Seven Goats, Jewelinger, Cal, Jade_4ded, medicmist, occulii, siserene, spookploe, usermann_, wolfska]
-
-
-# ALPHA PATCHNOTES:
+# Distant Shore: ALPHA PATCHNOTES:
 
 [UP NEXT] 
 - More rooms
@@ -21,7 +12,7 @@
 - Added More Decals
 
 
-!CURRENT! v0.0.5
+v0.0.5
 - Added more rooms.
 - Adjusted creature spawns.
 
